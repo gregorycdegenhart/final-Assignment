@@ -3,7 +3,9 @@ Gregory Degenhart README file
 Who are your team members? Names & surnames. No need to list who did what this time.
 
 Gregory Degenhart
+
 Kyle Williams
+
 Colby Brustein
 
 What are the modifications you made to the game?

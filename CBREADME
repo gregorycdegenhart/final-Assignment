@@ -1,0 +1,15 @@
+COLBY BRUSTEIN README
+
+Who are your team members?:
+Colby Brustein
+Gregory Degenhart
+Kyle Williams
+
+What are the modifications you made to the game?:
+The first modification I made to the game was post-processing. I wanted the colors and shadows to look darker than the unity tutorial instructed, giving the game a more spooky tone, which I definitely see working better in the final playthrough. A major modification that was done includes a speed boost mechanic. The player can press the spacebar, and John Lemon gets a two-second speed boost until it’s time for a cooldown. The cool thing about this modification is that the player can see the lemon icon slowly degenerating and regenerating, letting them know in real-time that they’re ready for another speed boost. The last modification I made was with the enemies, specifically, the ghosts. To make things a bit more interesting, I changed the ghosts' behaviors from being fixed to the waypoints to making their movements random at times, something I believe is more challenging for the player and gives an overall better gameplay experience.
+
+What’s the biggest challenge you’ve had so far?:
+The biggest challenge was actually using the old tutorials. Since the game was originally made and optimized for the 2020 version of Unity, it was difficult to find certain features and get them working, leading me to have to improvise, especially with the NavMesh. Because the NavMesh system changed, I struggled getting the ghost movement to work properly. However, once I researched troubleshooting methods and worked through the issues, the rest of the game wasn’t too difficult to create in the end. 
+
+Will you continue working on this assignment? If yes, what might be some changes you will add later?:
+I may decide to pick up this project again, even if it’s just for fun. I could totally see this game becoming something like Luigi's Mansion. I can already imagine adding a vacuum-like weapon to take down the ghosts, maybe even creating some more levels as well!
